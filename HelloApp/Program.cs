@@ -9,5 +9,10 @@ namespace Helloapp
             Console.WriteLine("hello");
         }
 
+        static void GetPrivet ()
+        {
+            Console.WriteLine("hello white");
+        }
+
     }
 }
