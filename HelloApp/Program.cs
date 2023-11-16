@@ -7,6 +7,8 @@ namespace Helloapp
         static void Main (string[] args)
         {
             Console.WriteLine("hello everyone");
+            GetPrivet();
+            GetPrivetBlack();
         }
 
         static void GetPrivet ()
